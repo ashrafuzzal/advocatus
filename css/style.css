@@ -296,6 +296,7 @@
 .faq-section ul li:hover,
 .faq-section ul li:focus{
 	color: #E9BF5D;
+	cursor: pointer;
 	transition: 0.1s ease;
 }
 .faq-section svg{
